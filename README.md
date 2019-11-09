@@ -8,8 +8,6 @@ Clone the repository
 
 ```
 git clone "https://github.com/vineetjk/colorZ.git"
-
-cd colorPicker
 ```
 ### Requirements
 
