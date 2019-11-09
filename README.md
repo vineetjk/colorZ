@@ -17,8 +17,4 @@ git clone "https://github.com/vineetjk/colorZ.git"
 
 ### Screenshots
 
-* Android App
-![App Screenshot](screenshots/screencast.gif?raw=true "ColorZ-Android")
-
-* Firebase
-![App Screenshot](screenshots/screenrec.gif?raw=true "ColorZ-Firebase")
+<img src="screenshots/screencast.gif" height="300em" /><img src="screenshots/screenrec.gif" height="300em" />
