@@ -15,3 +15,10 @@ git clone "https://github.com/vineetjk/colorZ.git"
     * [ArduinoJson](https://www.arduinolibraries.info/libraries/arduino-json) v5.3.0 or above
     * [ Firebase Library ](https://github.com/FirebaseExtended/firebase-arduino/releases) 
 
+### Screenshots
+
+* Android App
+![App Screenshot](screenshots/screencast.gif?raw=true "ColorZ-Android")
+
+* Firebase
+![App Screenshot](screenshots/screenrec.gif?raw=true "ColorZ-Firebase")

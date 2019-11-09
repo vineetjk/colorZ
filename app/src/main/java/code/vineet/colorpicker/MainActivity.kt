@@ -146,7 +146,7 @@ class MainActivity : AppCompatActivity() {
                             var value:String
 
                             value = td.toString()
-                            sens.text = value
+                           // sens.text = value
 
                         }
                     }catch (ex:Exception){}
